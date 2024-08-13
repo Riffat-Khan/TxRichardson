@@ -1,0 +1,209 @@
+[
+{"year": "1997", "number": "00001100", "address": "660 N DOROTHY DR", "tenant_number": "200", "tenant_name": "AMAX ENGINEERING CORP.", "type": "INTERIOR FINISH, INDUSTRIAL", "status": "CERTIFICATE OF OCC ISSUED", "date": "05/02/97"},
+{"year": "1997", "number": "00002244", "address": "2807  ASHBURY DR", "tenant_number": "N/A", "tenant_name": "N/A", "type": "NEW, SINGLE FAMILY DWELLING DETACHED", "status": "CLOSED", "date": "11/24/97"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "J. L. PARKER PLUMBING INC"},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "03/25/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "METRO MECHANICAL, INC"},
+{"permit": "CERTIFICATE OF OCCUPANCY", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "CERTIFICATE OF OCCUPANCY", "issue_date": "04/18/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "INTERIOR FINISH BUILDING PERMIT", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "INTERIOR FINISH BUILDING PERMIT", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$85,000.00", "square_footage": "20,000", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "TEXAS PLUMB-MECHANICAL INC."},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "AIRTRON, INC."},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "KING ELECTRIC"},
+{"permit": "CONCRETE VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "CONCRETE VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "GAVIA CONCRETE"},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "04/01/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "JONES & SONS ELECTRIC, INC"},
+{"permit": "SINGLE FAMILY BUILDING PERMIT", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "SINGLE FAMILY BUILDING PERMIT", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$152,700.00", "square_footage": "Not Recorded", "contractor": "FIRST TEXAS HOMES"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"year": "1997", "number": "00001100", "address": "660 N DOROTHY DR", "tenant_number": "200", "tenant_name": "AMAX ENGINEERING CORP.", "type": "INTERIOR FINISH, INDUSTRIAL", "status": "CERTIFICATE OF OCC ISSUED", "date": "05/02/97"},
+{"year": "1997", "number": "00002244", "address": "2807  ASHBURY DR", "tenant_number": "N/A", "tenant_name": "N/A", "type": "NEW, SINGLE FAMILY DWELLING DETACHED", "status": "CLOSED", "date": "11/24/97"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "J. L. PARKER PLUMBING INC"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "03/25/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "METRO MECHANICAL, INC"},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "04/01/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "JONES & SONS ELECTRIC, INC"},
+{"permit": "INTERIOR FINISH BUILDING PERMIT", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "INTERIOR FINISH BUILDING PERMIT", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$85,000.00", "square_footage": "20,000", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "CERTIFICATE OF OCCUPANCY", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "CERTIFICATE OF OCCUPANCY", "issue_date": "04/18/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "KING ELECTRIC"},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "AIRTRON, INC."},
+{"permit": "CONCRETE VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "CONCRETE VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "GAVIA CONCRETE"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "SINGLE FAMILY BUILDING PERMIT", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "SINGLE FAMILY BUILDING PERMIT", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$152,700.00", "square_footage": "Not Recorded", "contractor": "FIRST TEXAS HOMES"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "TEXAS PLUMB-MECHANICAL INC."}
+][
+{"year": "1997", "number": "00001100", "address": "660 N DOROTHY DR", "tenant_number": "200", "tenant_name": "AMAX ENGINEERING CORP.", "type": "INTERIOR FINISH, INDUSTRIAL", "status": "CERTIFICATE OF OCC ISSUED", "date": "05/02/97"},
+{"year": "1997", "number": "00002244", "address": "2807  ASHBURY DR", "tenant_number": "N/A", "tenant_name": "N/A", "type": "NEW, SINGLE FAMILY DWELLING DETACHED", "status": "CLOSED", "date": "11/24/97"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "J. L. PARKER PLUMBING INC"},
+{"permit": "CERTIFICATE OF OCCUPANCY", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "CERTIFICATE OF OCCUPANCY", "issue_date": "04/18/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "INTERIOR FINISH BUILDING PERMIT", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "INTERIOR FINISH BUILDING PERMIT", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$85,000.00", "square_footage": "20,000", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "AIRTRON, INC."},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "TEXAS PLUMB-MECHANICAL INC."},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "KING ELECTRIC"},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "04/01/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "JONES & SONS ELECTRIC, INC"},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "03/25/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "METRO MECHANICAL, INC"},
+{"permit": "CONCRETE VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "CONCRETE VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "GAVIA CONCRETE"},
+{"permit": "SINGLE FAMILY BUILDING PERMIT", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "SINGLE FAMILY BUILDING PERMIT", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$152,700.00", "square_footage": "Not Recorded", "contractor": "FIRST TEXAS HOMES"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"year": "1997", "number": "00001100", "address": "660 N DOROTHY DR", "tenant_number": "200", "tenant_name": "AMAX ENGINEERING CORP.", "type": "INTERIOR FINISH, INDUSTRIAL", "status": "CERTIFICATE OF OCC ISSUED", "date": "05/02/97"},
+{"year": "1997", "number": "00002244", "address": "2807  ASHBURY DR", "tenant_number": "N/A", "tenant_name": "N/A", "type": "NEW, SINGLE FAMILY DWELLING DETACHED", "status": "CLOSED", "date": "11/24/97"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "J. L. PARKER PLUMBING INC"},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "03/25/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "METRO MECHANICAL, INC"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "AIRTRON, INC."},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "TEXAS PLUMB-MECHANICAL INC."},
+{"permit": "INTERIOR FINISH BUILDING PERMIT", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "INTERIOR FINISH BUILDING PERMIT", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$85,000.00", "square_footage": "20,000", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "KING ELECTRIC"},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "04/01/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "JONES & SONS ELECTRIC, INC"},
+{"permit": "CONCRETE VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "CONCRETE VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "GAVIA CONCRETE"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "SINGLE FAMILY BUILDING PERMIT", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "SINGLE FAMILY BUILDING PERMIT", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$152,700.00", "square_footage": "Not Recorded", "contractor": "FIRST TEXAS HOMES"},
+{"permit": "CERTIFICATE OF OCCUPANCY", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "CERTIFICATE OF OCCUPANCY", "issue_date": "04/18/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "FAST-TRAK CONSTRUCTION, INC."}
+][
+{"year": "1997", "number": "00001100", "address": "660 N DOROTHY DR", "tenant_number": "200", "tenant_name": "AMAX ENGINEERING CORP.", "type": "INTERIOR FINISH, INDUSTRIAL", "status": "CERTIFICATE OF OCC ISSUED", "date": "05/02/97"},
+{"year": "1997", "number": "00002244", "address": "2807  ASHBURY DR", "tenant_number": "N/A", "tenant_name": "N/A", "type": "NEW, SINGLE FAMILY DWELLING DETACHED", "status": "CLOSED", "date": "11/24/97"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "J. L. PARKER PLUMBING INC"},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "03/25/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "METRO MECHANICAL, INC"},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "AIRTRON, INC."},
+{"permit": "CONCRETE VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "CONCRETE VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "GAVIA CONCRETE"},
+{"permit": "CERTIFICATE OF OCCUPANCY", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "CERTIFICATE OF OCCUPANCY", "issue_date": "04/18/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "INTERIOR FINISH BUILDING PERMIT", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "INTERIOR FINISH BUILDING PERMIT", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$85,000.00", "square_footage": "20,000", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "KING ELECTRIC"},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "04/01/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "JONES & SONS ELECTRIC, INC"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "TEXAS PLUMB-MECHANICAL INC."},
+{"permit": "SINGLE FAMILY BUILDING PERMIT", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "SINGLE FAMILY BUILDING PERMIT", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$152,700.00", "square_footage": "Not Recorded", "contractor": "FIRST TEXAS HOMES"}
+][
+{"year": "1997", "number": "00002244", "address": "2807  ASHBURY DR", "tenant_number": "N/A", "tenant_name": "N/A", "type": "NEW, SINGLE FAMILY DWELLING DETACHED", "status": "CLOSED", "date": "11/24/97"},
+{"year": "1997", "number": "00001100", "address": "660 N DOROTHY DR", "tenant_number": "200", "tenant_name": "AMAX ENGINEERING CORP.", "type": "INTERIOR FINISH, INDUSTRIAL", "status": "CERTIFICATE OF OCC ISSUED", "date": "05/02/97"},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "03/25/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "METRO MECHANICAL, INC"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "J. L. PARKER PLUMBING INC"},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "04/01/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "JONES & SONS ELECTRIC, INC"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "TEXAS PLUMB-MECHANICAL INC."},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "KING ELECTRIC"},
+{"permit": "CONCRETE VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "CONCRETE VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "GAVIA CONCRETE"},
+{"permit": "CERTIFICATE OF OCCUPANCY", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "CERTIFICATE OF OCCUPANCY", "issue_date": "04/18/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "INTERIOR FINISH BUILDING PERMIT", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "INTERIOR FINISH BUILDING PERMIT", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$85,000.00", "square_footage": "20,000", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "SINGLE FAMILY BUILDING PERMIT", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "SINGLE FAMILY BUILDING PERMIT", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$152,700.00", "square_footage": "Not Recorded", "contractor": "FIRST TEXAS HOMES"},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "AIRTRON, INC."},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"year": "1997", "number": "00001812", "address": "3806  MARCHWOOD DR", "tenant_number": "N/A", "tenant_name": "N/A", "type": "MISC BLDG, RESIDENTIAL", "status": "CLOSED", "date": "05/21/97"},
+{"year": "1997", "number": "00001100", "address": "660 N DOROTHY DR", "tenant_number": "200", "tenant_name": "AMAX ENGINEERING CORP.", "type": "INTERIOR FINISH, INDUSTRIAL", "status": "CERTIFICATE OF OCC ISSUED", "date": "05/02/97"},
+{"year": "1997", "number": "00002244", "address": "2807  ASHBURY DR", "tenant_number": "N/A", "tenant_name": "N/A", "type": "NEW, SINGLE FAMILY DWELLING DETACHED", "status": "CLOSED", "date": "11/24/97"},
+{"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null},
+{"permit": "CERTIFICATE OF OCCUPANCY", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "CERTIFICATE OF OCCUPANCY", "issue_date": "04/18/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "03/25/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "METRO MECHANICAL, INC"},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "04/01/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "JONES & SONS ELECTRIC, INC"},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "TEXAS PLUMB-MECHANICAL INC."},
+{"permit": "MECHANICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "MECHANICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "AIRTRON, INC."},
+{"permit": "PLUMBING VOUCHER", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "PLUMBING VOUCHER", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "J. L. PARKER PLUMBING INC"},
+{"permit": "ELECTRICAL VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "ELECTRICAL VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "KING ELECTRIC"},
+{"permit": "SINGLE FAMILY BUILDING PERMIT", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "SINGLE FAMILY BUILDING PERMIT", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$152,700.00", "square_footage": "Not Recorded", "contractor": "FIRST TEXAS HOMES"},
+{"permit": "CONCRETE VOUCHER", "permit_number": "97-2244", "property_address": "2807  ASHBURY DR", "permit_type": "CONCRETE VOUCHER", "issue_date": "06/05/97", "permit_status": "PERMIT CLOSED", "status_updated": "11/24/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "GAVIA CONCRETE"},
+{"permit": "INTERIOR FINISH BUILDING PERMIT", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "INTERIOR FINISH BUILDING PERMIT", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$85,000.00", "square_footage": "20,000", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+{"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
+{"inspection": "PLUMBING, FINAL", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "inspection_type": "PLUMBING, FINAL", "inspector": "GARY YOUNGKIN", "result": "AP", "date": "05/07/97"},
+{"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+{"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+][
+
+]
