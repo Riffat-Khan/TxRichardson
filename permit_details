@@ -107,30 +107,6 @@
 {"permit": "INTERIOR FINISH BUILDING PERMIT", "permit_number": "97-1100", "property_address": "660 N DOROTHY DR", "permit_type": "INTERIOR FINISH BUILDING PERMIT", "issue_date": "03/24/97", "permit_status": "CERTIFICATE OF OCCUPANCY ISSUED", "status_updated": "05/02/97", "valuation": "$85,000.00", "square_footage": "20,000", "contractor": "FAST-TRAK CONSTRUCTION, INC."},
 {"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
 ][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
 {"permit": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "permit_number": "97-1812", "property_address": "3806  MARCHWOOD DR", "permit_type": "MISCELLANEOUS RESIDENTIAL PLUMBING PERMIT", "issue_date": "05/06/97", "permit_status": "PERMIT CLOSED", "status_updated": "05/21/97", "valuation": "$0.00", "square_footage": "Not Recorded", "contractor": "DALLAS LAWN SPRINKLER"},
 {"permit": null, "permit_number": null, "property_address": null, "permit_type": null, "issue_date": null, "permit_status": null, "status_updated": null, "valuation": null, "square_footage": null, "contractor": null}
 ][
@@ -157,18 +133,6 @@
 ][
 {"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
 ][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
 {"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
 ][
 {"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
@@ -184,26 +148,4 @@
 {"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
 ][
 {"year": null, "number": null, "address": null, "tenant_number": null, "tenant_name": null, "type": null, "status": null, "date": null}
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
-][
-
 ]
